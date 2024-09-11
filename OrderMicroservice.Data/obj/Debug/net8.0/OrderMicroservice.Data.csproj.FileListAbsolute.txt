@@ -1,0 +1,17 @@
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\bin\Debug\net8.0\OrderMicroservice.Data.deps.json
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\bin\Debug\net8.0\OrderMicroservice.Data.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\bin\Debug\net8.0\OrderMicroservice.Data.pdb
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\OrderMicroservice.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\OrderMicroservice.Data.AssemblyInfoInputs.cache
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\OrderMicroservice.Data.AssemblyInfo.cs
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\OrderMicroservice.Data.csproj.CoreCompileInputs.cache
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\OrderMicroservice.Data.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\refint\OrderMicroservice.Data.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\OrderMicroservice.Data.pdb
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\ref\OrderMicroservice.Data.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\bin\Debug\net8.0\OrderMicroservice.Data.runtimeconfig.json
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\bin\Debug\net8.0\OrderMicroservice.Models.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\bin\Debug\net8.0\OrderMicroservice.Models.pdb
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\OrderMicroservice.Data.csproj.AssemblyReference.cache
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\OrderMic.498F110C.Up2Date
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Data\obj\Debug\net8.0\OrderMicroservice.Data.genruntimeconfig.cache

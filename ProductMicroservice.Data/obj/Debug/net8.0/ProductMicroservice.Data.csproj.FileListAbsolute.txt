@@ -1,0 +1,17 @@
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\bin\Debug\net8.0\ProductMicroservice.Data.deps.json
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\bin\Debug\net8.0\ProductMicroservice.Data.runtimeconfig.json
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\bin\Debug\net8.0\ProductMicroservice.Data.dll
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\bin\Debug\net8.0\ProductMicroservice.Data.pdb
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\bin\Debug\net8.0\ProductMicroservice.Models.dll
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\bin\Debug\net8.0\ProductMicroservice.Models.pdb
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\ProductMicroservice.Data.csproj.AssemblyReference.cache
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\ProductMicroservice.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\ProductMicroservice.Data.AssemblyInfoInputs.cache
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\ProductMicroservice.Data.AssemblyInfo.cs
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\ProductMicroservice.Data.csproj.CoreCompileInputs.cache
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\ProductM.334A6D01.Up2Date
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\ProductMicroservice.Data.dll
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\refint\ProductMicroservice.Data.dll
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\ProductMicroservice.Data.pdb
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\ProductMicroservice.Data.genruntimeconfig.cache
+D:\1. Work\Projects\Micro Service\MicroService\ProductMicroservice.Data\obj\Debug\net8.0\ref\ProductMicroservice.Data.dll

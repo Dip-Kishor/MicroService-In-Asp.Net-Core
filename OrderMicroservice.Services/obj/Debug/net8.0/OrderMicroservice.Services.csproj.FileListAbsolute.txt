@@ -1,0 +1,17 @@
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\bin\Debug\net8.0\OrderMicroservice.Services.deps.json
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\bin\Debug\net8.0\OrderMicroservice.Services.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\bin\Debug\net8.0\OrderMicroservice.Services.pdb
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\obj\Debug\net8.0\OrderMicroservice.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\obj\Debug\net8.0\OrderMicroservice.Services.AssemblyInfoInputs.cache
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\obj\Debug\net8.0\OrderMicroservice.Services.AssemblyInfo.cs
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\obj\Debug\net8.0\OrderMicroservice.Services.csproj.CoreCompileInputs.cache
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\obj\Debug\net8.0\OrderMicroservice.Services.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\obj\Debug\net8.0\refint\OrderMicroservice.Services.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\obj\Debug\net8.0\OrderMicroservice.Services.pdb
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\obj\Debug\net8.0\ref\OrderMicroservice.Services.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\bin\Debug\net8.0\OrderMicroservice.Data.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\bin\Debug\net8.0\OrderMicroservice.Models.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\bin\Debug\net8.0\OrderMicroservice.Data.pdb
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\bin\Debug\net8.0\OrderMicroservice.Models.pdb
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\obj\Debug\net8.0\OrderMicroservice.Services.csproj.AssemblyReference.cache
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Services\obj\Debug\net8.0\OrderMic.19E73A68.Up2Date

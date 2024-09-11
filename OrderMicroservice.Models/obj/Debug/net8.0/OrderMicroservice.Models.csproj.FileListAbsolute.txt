@@ -1,0 +1,11 @@
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\bin\Debug\net8.0\OrderMicroservice.Models.deps.json
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\bin\Debug\net8.0\OrderMicroservice.Models.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\bin\Debug\net8.0\OrderMicroservice.Models.pdb
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\obj\Debug\net8.0\OrderMicroservice.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\obj\Debug\net8.0\OrderMicroservice.Models.AssemblyInfoInputs.cache
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\obj\Debug\net8.0\OrderMicroservice.Models.AssemblyInfo.cs
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\obj\Debug\net8.0\OrderMicroservice.Models.csproj.CoreCompileInputs.cache
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\obj\Debug\net8.0\OrderMicroservice.Models.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\obj\Debug\net8.0\refint\OrderMicroservice.Models.dll
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\obj\Debug\net8.0\OrderMicroservice.Models.pdb
+D:\1. Work\Projects\Micro Service\MicroService\OrderMicroservice.Models\obj\Debug\net8.0\ref\OrderMicroservice.Models.dll

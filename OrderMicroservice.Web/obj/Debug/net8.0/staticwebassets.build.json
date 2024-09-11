@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hep26/wGSprhXLOkhbm1dRTjYAn0AB7u77jewJQUgQs=",
+  "Source": "OrderMicroservice.Web",
+  "BasePath": "_content/OrderMicroservice.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
