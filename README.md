@@ -26,7 +26,7 @@ This is an example of micro service in asp.net core. You will find the overall c
 1. Clone the repository
 
 ```sh
-git clone
+git clone https://github.com/Dip-Kishor/MicroService-In-Asp.Net-Core
 ```
 
 2. Navigate to the project directory
