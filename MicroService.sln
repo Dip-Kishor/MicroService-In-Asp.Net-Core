@@ -7,23 +7,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrderMicroservice", "OrderM
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductMicroservice", "ProductMicroservice", "{3B36F19B-555C-48BB-BAC3-BD0FBCF32619}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderMicroservice.Web", "OrderMicroservice.Web\OrderMicroservice.Web.csproj", "{AF904429-0B7F-4025-9F13-49717A2B5CE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderMicroservice.Web", "OrderMicroservice.Web\OrderMicroservice.Web.csproj", "{AF904429-0B7F-4025-9F13-49717A2B5CE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderMicroservice.Data", "OrderMicroservice.Data\OrderMicroservice.Data.csproj", "{94B8BD2A-9F36-42C4-B2C7-A0FF88502FD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderMicroservice.Data", "OrderMicroservice.Data\OrderMicroservice.Data.csproj", "{94B8BD2A-9F36-42C4-B2C7-A0FF88502FD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderMicroservice.Models", "OrderMicroservice.Models\OrderMicroservice.Models.csproj", "{E852B1ED-710A-43B3-AACD-FEDC5CB3C445}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderMicroservice.Models", "OrderMicroservice.Models\OrderMicroservice.Models.csproj", "{E852B1ED-710A-43B3-AACD-FEDC5CB3C445}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderMicroservice.Services", "OrderMicroservice.Services\OrderMicroservice.Services.csproj", "{EFF67377-5765-452B-B4D9-96DD52779A1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderMicroservice.Services", "OrderMicroservice.Services\OrderMicroservice.Services.csproj", "{EFF67377-5765-452B-B4D9-96DD52779A1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMicroservice.Web", "ProductMicroservice.Web\ProductMicroservice.Web.csproj", "{6B1D2458-B572-45ED-811B-D94050B1810A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductMicroservice.Web", "ProductMicroservice.Web\ProductMicroservice.Web.csproj", "{6B1D2458-B572-45ED-811B-D94050B1810A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMicroservice.Data", "ProductMicroservice.Data\ProductMicroservice.Data.csproj", "{30A26E15-7ED9-4FAA-B6B6-C94855E0D37C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductMicroservice.Data", "ProductMicroservice.Data\ProductMicroservice.Data.csproj", "{30A26E15-7ED9-4FAA-B6B6-C94855E0D37C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMicroservice.Models", "ProductMicroservice.Models\ProductMicroservice.Models.csproj", "{2F8BD447-CE95-4715-815B-28FADC9F1B0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductMicroservice.Models", "ProductMicroservice.Models\ProductMicroservice.Models.csproj", "{2F8BD447-CE95-4715-815B-28FADC9F1B0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMicroservice.Services", "ProductMicroservice.Services\ProductMicroservice.Services.csproj", "{77D18F49-8E32-4A62-B555-F227B7ECF12D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductMicroservice.Services", "ProductMicroservice.Services\ProductMicroservice.Services.csproj", "{77D18F49-8E32-4A62-B555-F227B7ECF12D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{D9B6FC65-2251-4C29-94C6-5B053037BC3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{D9B6FC65-2251-4C29-94C6-5B053037BC3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

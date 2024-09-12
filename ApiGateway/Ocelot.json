@@ -12,6 +12,7 @@
       "UpstreamPathTemplate": "/GetProductById/{id}",
       "UpstreamHttpMethod": [ "Get" ]
     }
+
   ]
 
 }
