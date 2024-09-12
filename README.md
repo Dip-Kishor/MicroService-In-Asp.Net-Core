@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Micro Service In Asp.Net Core
 
 This is an example of micro service in asp.net core. You will find the overall concept of microservice using API gateway. I have used the concept of Ocelot for creating gateway that can be accessed by clients.
